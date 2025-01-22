@@ -14,13 +14,18 @@ This is a basic implementation of a book store system. It includes features for 
 
 ---
 
-## Team Members            ##ID
-1. Kaleb dangachew 	      ETS0747/15
-2. Kernemi kidane 	      ETS0760/15
-3. Lidiya abebe 	        ETS0832/15
-4. Lydia yonas            ETS0848/15
-5. Nehemiah mitiku 	      ETS1082/15
-6. Lamrot hiwote    ETS1542/15
+## Group Members
+
+| **No.** | **Name**           | **ID**         |
+|---------|---------------------|----------------|
+| 1       | Kaleb Dangachew     | ETS0747/15     |
+| 2       | Kernemi Kidane      | ETS0760/15     |
+| 3       | Lidiya Abebe        | ETS0832/15     |
+| 4       | Lydia Yonas         | ETS0848/15     |
+| 5       | Nehmiah Mitku       | ETS1082/15     |
+| 6       | Lamrot Hiwote       | ETS1542/15     |
+
+
 
 
 ---
