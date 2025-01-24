@@ -1,7 +1,3 @@
-# Team Project Repository
-
-Welcome to our team project repository!
----
 
 ## Project Titles 
 
@@ -14,7 +10,7 @@ This is a basic implementation of a book store system.
 ---
 
 ## Group Number/Name 
-
+Group 2
 Free thinkers 
 
 ---
@@ -33,5 +29,3 @@ Free thinkers
 
 
 ---
-
-We hope you enjoy exploring our projects
