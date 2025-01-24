@@ -1,19 +1,23 @@
 # Team Project Repository
 
-Welcome to our team project repository! This repository contains two separate projects we worked on collaboratively as a team. Below are the details of the projects:
-
+Welcome to our team project repository!
 ---
 
-## Projects
+## Project Titles 
 
 ### 1. **Rock-Paper-Scissors Game**
-This is an implementation of the classic Rock-Paper-Scissors game. It allows players to compete against the computer,and with other players,  with the game determining the winner based on the rules of Rock-Paper-Scissors.
+This is an implementation of the classic Rock-Paper-Scissors game.
 
 ### 2. **Book Store**
-This is a basic implementation of a book store system. It includes features for managing book inventory, browsing available books, and other functionalities related to a book store.
+This is a basic implementation of a book store system.
 
 ---
 
+## Group Number/Name 
+
+Free thinkers 
+
+---
 ## Group Members
 
 | **No.** | **Name**           | **ID**         |
