@@ -2,16 +2,16 @@
 ## Project Titles 
 
 ### 1. **Rock-Paper-Scissors Game**
-This is an implementation of the classic Rock-Paper-Scissors game.
+- This is an implementation of the classic Rock-Paper-Scissors game.
 
 ### 2. **Book Store**
-This is a basic implementation of a book store system.
+- This is a basic implementation of a book store system.
 
 ---
 
 ## Group Number/Name 
--Group 2
--Free thinkers 
+- Group 2
+- Free thinkers 
 
 ---
 ## Group Members
