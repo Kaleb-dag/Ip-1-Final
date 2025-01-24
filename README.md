@@ -10,8 +10,8 @@ This is a basic implementation of a book store system.
 ---
 
 ## Group Number/Name 
-Group 2
-Free thinkers 
+-Group 2
+-Free thinkers 
 
 ---
 ## Group Members
